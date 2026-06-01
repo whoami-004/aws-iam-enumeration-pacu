@@ -1,6 +1,6 @@
 # AWS IAM Enumeration with Pacu
 
-**Author:** Steve Rogan Robinson
+**Author:** Chandru Ganesan
 
 ## Overview
 
